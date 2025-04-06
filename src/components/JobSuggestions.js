@@ -26,7 +26,7 @@ function JobSuggestions({ keywords = [], summary = "" }) {
           num_pages: '1'
         },
         headers: {
-          'X-RapidAPI-Key': '5f0a45efc5msha459b3624abbf5fp178efejsn4ade39898509',
+          'X-RapidAPI-Key': 'use your api key',
           'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
         }
       };
